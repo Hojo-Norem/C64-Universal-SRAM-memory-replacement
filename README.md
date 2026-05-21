@@ -1,9 +1,9 @@
 # C64-Universal-SRAM-memory-replacement
 Replace that old unreliable DRAM in your C64 with SRAM!
-![alt text](https://github.com/Hojo-Norem/C64-Universal-SRAM-memory-replacement/blob/master/sram_installed.jpg "Replacment installed")
+![alt text](https://github.com/Hojo-Norem/C64-Universal-SRAM-memory-replacement/sram_installed.jpg "Replacment installed")
 
 Inspired by penfold42 on the Lemon64 forum.
-![alt text](https://github.com/Hojo-Norem/C64-Universal-SRAM-memory-replacement/blob/master/sram_pcb.jpg "Replacement bare PCB")
+![alt text](https://github.com/Hojo-Norem/C64-Universal-SRAM-memory-replacement/sram_pcb.jpg "Replacement bare PCB")
 
 Bonus for shortboard users!
 ---------------------------------------
